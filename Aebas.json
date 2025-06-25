@@ -9,7 +9,7 @@
     "id": "cf00f01e5f54f39c",
     "key": "olduser",
     "expiresAt": "2025-07-18",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "ali456",
