@@ -38,6 +38,12 @@
   },
   {
     "id": "fe4b1a79304d1703",
+    "key": "Aebas167",
+    "expiresAt": "2025-07-25",
+    "allowOffline": true
+  },
+  {
+    "id": "fe4b1a79304d1703",
     "key": "key2",
     "expiresAt": "2025-06-26",
     "allowOffline": false
