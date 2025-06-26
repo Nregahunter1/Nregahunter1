@@ -13,9 +13,9 @@
   },
   {
     "id": "8800074263852fbf",
-    "key": "Demo",
-    "expiresAt": "2025-06-26",
-    "allowOffline": false
+    "key": "freeuser",
+    "expiresAt": "2025-07-26",
+    "allowOffline": true
   },
   {
     "id": "556fcf25072e7352",
@@ -30,9 +30,9 @@
     "allowOffline": true
   },
   {
-    "id": "ali456",
+    "id": "fe4b1a79304d1703",
     "key": "key2",
-    "expiresAt": "2025-06-15",
+    "expiresAt": "2025-06-26",
     "allowOffline": false
   },
   {
