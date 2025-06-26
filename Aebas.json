@@ -3,7 +3,7 @@
     "id": "5f34d47b8f3da427",
     "key": "Admin",
     "expiresAt": "2025-08-30",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "8800074263852fbf",
