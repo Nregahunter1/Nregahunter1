@@ -12,6 +12,12 @@
     "allowOffline": true
   },
   {
+    "id": "57216777e38e566d",
+    "key": "Admin",
+    "expiresAt": "2025-08-30",
+    "allowOffline": true
+  },
+  {
     "id": "8800074263852fbf",
     "key": "freeuser",
     "expiresAt": "2025-07-26",
