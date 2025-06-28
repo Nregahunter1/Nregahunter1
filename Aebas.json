@@ -432,7 +432,7 @@
     "allowOffline": true
   },
   {
-    "id": "b4dacab0cfa6e74d",
+    "id": "id",
     "key": "Demo",
     "expiresAt": "2025-06-29",
     "allowOffline": true
@@ -540,9 +540,9 @@
     "allowOffline": true
   },
   {
-    "id": "id",
-    "key": "key",
-    "expiresAt": "2025-07-26",
+    "id": "b4dacab0cfa6e74d",
+    "key": "Aebas186",
+    "expiresAt": "2025-07-29",
     "allowOffline": true
   },
   {
