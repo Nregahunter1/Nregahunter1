@@ -640,5 +640,11 @@
     "key": "Aebas196",
     "expiresAt": "2025-07-30",
     "allowOffline": true
+  },
+  {
+    "id": "267ec0ed0ffd24e9",
+    "key": "Aebas197",
+    "expiresAt": "2025-07-31",
+    "allowOffline": true
   }
 ]
