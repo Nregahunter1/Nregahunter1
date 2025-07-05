@@ -42,12 +42,6 @@
     "allowOffline": true
   },
   {
-    "id": "7ac4f321e6a772ee",
-    "key": "olduser",
-    "expiresAt": "2025-07-04",
-    "allowOffline": true
-  },
-  {
     "id": "2a9aa1aa622bf2d7",
     "key": "olduser",
     "expiresAt": "2025-07-16",
@@ -57,18 +51,6 @@
     "id": "93c0752d1421c02d",
     "key": "olduser",
     "expiresAt": "2025-07-07",
-    "allowOffline": true
-  },
-  {
-    "id": "b8b5c0023347aee0",
-    "key": "olduser",
-    "expiresAt": "2025-06-29",
-    "allowOffline": true
-  },
-  {
-    "id": "d090b4ef023a8e20",
-    "key": "olduser",
-    "expiresAt": "2025-07-03",
     "allowOffline": true
   },
   {
@@ -90,27 +72,9 @@
     "allowOffline": true
   },
   {
-    "id": "09d40051fade4dbf",
-    "key": "olduser",
-    "expiresAt": "2025-07-03",
-    "allowOffline": true
-  },
-  {
     "id": "012940390ff1c4af",
     "key": "olduser",
     "expiresAt": "2025-07-10",
-    "allowOffline": true
-  },
-  {
-    "id": "7779ea8e70fd5784",
-    "key": "olduser",
-    "expiresAt": "2025-07-05",
-    "allowOffline": true
-  },
-  {
-    "id": "697c77669b9d2ea4",
-    "key": "olduser",
-    "expiresAt": "2025-07-04",
     "allowOffline": true
   },
   {
@@ -168,21 +132,9 @@
     "allowOffline": true
   },
   {
-    "id": "30b10682fa4ec3d9",
-    "key": "olduser",
-    "expiresAt": "2025-06-30",
-    "allowOffline": true
-  },
-  {
     "id": "719db5372d4b0e51",
     "key": "olduser",
     "expiresAt": "2025-07-06",
-    "allowOffline": true
-  },
-  {
-    "id": "d8c3fa8360a2a303",
-    "key": "olduser",
-    "expiresAt": "2025-06-29",
     "allowOffline": true
   },
   {
@@ -255,12 +207,6 @@
     "id": "a556660df1dab28b",
     "key": "olduser",
     "expiresAt": "2025-07-10",
-    "allowOffline": true
-  },
-  {
-    "id": "adf0c041d647a7c6",
-    "key": "olduser",
-    "expiresAt": "2025-07-05",
     "allowOffline": true
   },
   {
@@ -375,7 +321,7 @@
     "id": "5b289b6a29afbeea",
     "key": "olduser",
     "expiresAt": "2025-07-06",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "0b194939facb4161",
@@ -426,18 +372,6 @@
     "allowOffline": true
   },
   {
-    "id": "44efbbe6c188fc8f",
-    "key": "olduser",
-    "expiresAt": "2025-07-03",
-    "allowOffline": true
-  },
-  {
-    "id": "d67a62e169fd2b02",
-    "key": "olduser",
-    "expiresAt": "2025-07-03",
-    "allowOffline": true
-  },
-  {
     "id": "d5a65573f3cfc586",
     "key": "olduser",
     "expiresAt": "2025-07-21",
@@ -483,12 +417,6 @@
     "id": "id",
     "key": "olduser",
     "expiresAt": "2025-07-18",
-    "allowOffline": true
-  },
-  {
-    "id": "d8b882e93460fdee",
-    "key": "Demo",
-    "expiresAt": "2025-06-28",
     "allowOffline": true
   },
   {
