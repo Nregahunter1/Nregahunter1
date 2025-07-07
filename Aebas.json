@@ -4,7 +4,7 @@
     "key": "Admin",
     "expiresAt": "2025-08-26",
     "allowOffline": false
-  }
+  },
   {
     "id": "0dba1eb78747ae76",
     "key": "Admin",
@@ -14,7 +14,7 @@
   {
     "id": "d230e502cd3d8412",
     "key": "Admin",
-    "expiresAt": "2025-08-30",
+    "expiresAt": "2025-06-30",
     "allowOffline": false
   },
   {
