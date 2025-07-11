@@ -7,24 +7,20 @@
   {
     "id": "adb4298b72c93552",
     "key": "drrk21012",
-    "expiresAt": "2025-09-15"
+    "expiresAt": "2025-05-15"
   },
   {
     "id": "ali456",
     "key": "key2",
-    "expiresAt": "2025-06-15",
-    "allowOffline": false
+    "expiresAt": "2025-06-15"
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15"
   },
   {
     "id": "ali456",
     "key": "key2",
-    "expiresAt": "2025-06-15",
-    "allowOffline": false
-  },
-  {
-    "id": "ali456",
-    "key": "key2",
-    "expiresAt": "2025-06-15",
-    "allowOffline": false
+    "expiresAt": "2025-06-15"
   }
 ]
