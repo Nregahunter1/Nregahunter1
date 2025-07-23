@@ -1,5 +1,5 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "appVersionCode": 1,
   "messageText": "Oops! ⏰ This app has expired. Contact to Modder NregaHunter.",
   "updateButtonText": "Update",
