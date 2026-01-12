@@ -3,7 +3,7 @@
   "show_dialog": true,
   "title": "NREGA Mobile Monitoring System",
   "subtitle": "",
-  "Update Available": "Click On Update Button",
+  "Update_Available": "Click On Update Button",
   "btn_update": "Update",
   "btn_exit": "Exit",
   "link": "https://play.google.com/store/apps/details?id=com.nic.nmms"
