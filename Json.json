@@ -2,8 +2,8 @@
   "credit": "MR. NoOB",
   "show_dialog": true,
   "title": "Update Available",
-  "subtitle": "NREGA Mobile Monitoring System",
-  "whatsnew": "",
+  "subtitle": "",
+  "whatsnew": "NREGA Mobile Monitoring System",
   "btn_update": "Update",
   "btn_exit": "Exit",
   "link": "https://play.google.com/store/apps/details?id=com.nic.nmms"
